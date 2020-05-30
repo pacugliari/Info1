@@ -11,7 +11,7 @@ Indicar cuantos alumnos hay en ese curso.
 //COMO NO SE SABE QUE CANTIDAD DE ALUMNOS HAY SOLO SE PUEDE RESOLVER CON WHILE O DO WHILE
 
 //WHILE
-void ejercicio2_1(){
+void ejercicio4_2_1(){
 
 	unsigned int sumaEdades =0;
 	int edad=0;
@@ -31,7 +31,7 @@ void ejercicio2_1(){
 
 
 //DO WHILE
-void ejercicio2_2(){
+void ejercicio4_2_2(){
 
 	unsigned int sumaEdades =0;
 	int edad;

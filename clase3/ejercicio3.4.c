@@ -7,7 +7,7 @@ Ejercicio para resolver:
 
 #define CANT_DATOS 3
 
-void ejercicio4(){
+void ejercicio3_4(){
 	int dato;
 	int suma=0;
 	int datos[CANT_DATOS];

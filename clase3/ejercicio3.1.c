@@ -6,7 +6,7 @@
 - Leer 2 datos (a y b), hallar la suma e imprimir el resultado
 */
 
-void ejercicio1 (){
+void ejercicio3_1 (){
 	int a;
 	int b;
 

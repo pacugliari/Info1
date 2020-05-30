@@ -7,20 +7,26 @@ int main (){
 	setvbuf(stdout, NULL, _IONBF, 0);//AGREGADO PARA EVITAR BUG CONSOLA ECLIPSE
 
 	//CLASE 3
-	//ejercicio1();
-	//ejercicio2();
-	//ejercicio3();
-	//ejercicio4();
-	//ejercicio5();
-	//ejercicio6();
-	//ejercicio7();
+	//ejercicio3_1();
+	//ejercicio3_2();
+	//ejercicio3_3();
+	//ejercicio3_4();
+	//ejercicio3_5();
+	//ejercicio3_6();
+	//ejercicio3_7();
 
 	//CLASE 4
-	//ejercicio1_1();
-	//ejercicio1_2();
-	//ejercicio1_3();
-	//ejercicio2_1();
-	ejercicio2_2();
+	//ejercicio4_1_1();
+	//ejercicio4_1_2();
+	//ejercicio4_1_3();
+	//ejercicio4_2_1();
+	//ejercicio4_2_2();
+	//ejercicio4_3();
+	//ejercicio4_4();
+	//ejercicio4_5();
+	//ejercicio4_6();
+	//ejercicio4_7();
+	ejercicio4_8();
 
 
 

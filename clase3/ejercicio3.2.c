@@ -6,7 +6,7 @@ Ejercicio:
  */
 
 
-void ejercicio2 (){
+void ejercicio3_2 (){
 	int a;
 	int b;
 	int c;

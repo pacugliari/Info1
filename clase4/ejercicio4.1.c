@@ -9,7 +9,7 @@ Ejercicios para resolver:
 #define CANT_ALUMNOS 5
 
 //FOR
-void ejercicio1_1(){
+void ejercicio4_1_1(){
 
 	unsigned int sumaEdades =0;
 	int edad;
@@ -26,7 +26,7 @@ void ejercicio1_1(){
 }
 
 //WHILE
-void ejercicio1_2(){
+void ejercicio4_1_2(){
 
 	unsigned int sumaEdades =0;
 	int edad;
@@ -45,7 +45,7 @@ void ejercicio1_2(){
 }
 
 //DO WHILE
-void ejercicio1_3(){
+void ejercicio4_1_3(){
 
 	unsigned int sumaEdades =0;
 	int edad;

@@ -8,7 +8,7 @@ el valor del índice del «para». Indicar que valor imprime en el índice del �
 
 #define CANT_DATOS 3
 
-void ejercicio5(){
+void ejercicio3_5(){
 	int dato;
 	int suma=0;
 	int datos[CANT_DATOS];
