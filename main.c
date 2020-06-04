@@ -2,6 +2,7 @@
 #include "headers/clase4.h"
 #include "headers/clase5.h"
 #include "headers/clase6.h"
+#include "headers/clase8.h"
 
 
 int main (){
@@ -38,11 +39,7 @@ int main (){
 	//ejercicio5_4();
 	//ejercicio5_5();
 	//ejercicio5_6();
-	ejercicio5_7();
-
-
-
-
+	//ejercicio5_7();
 
 	//CLASE 6
 	//ejecutarSwitch();
@@ -52,6 +49,22 @@ int main (){
 	//ejercicio6_3();
 	//ejercicio6_4();
 	//ejercicio6_5();
+
+	//CLASE 8
+
+	//EJERCICIOS TEORICO/PRACTICO
+	//ejercicio8_1();
+	//ejercicio8_2();
+	//ejercicio8_3();
+	//ejercicio8_4();
+	//ejercicio8_5();
+
+	//EJERCICIOS PROPUESTOS
+	//ejercicio8_6();
+	//ejercicio8_7();
+	//ejercicio8_8();
+	ejercicio8_9();
+
 	return 0;
 }
 
