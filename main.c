@@ -3,6 +3,8 @@
 #include "headers/clase5.h"
 #include "headers/clase6.h"
 #include "headers/clase8.h"
+#include "headers/clase9.h"
+#include "headers/clase10.h"
 
 
 int main (){
@@ -63,7 +65,25 @@ int main (){
 	//ejercicio8_6();
 	//ejercicio8_7();
 	//ejercicio8_8();
-	ejercicio8_9();
+	//ejercicio8_9();
+
+	//CLASE 9
+	//ejercicio9_1_1();
+	//ejercicio9_1_2();
+	//ejercicio9_1_3();
+	//ejercicio9_2();
+	//ejercicio9_3();
+	//ejercicio9_4();
+	//ejercicio9_5();
+	//ejercicio9_6();
+
+	//CLASE 10
+	//ejercicio10_1();
+	//ejercicio10_3();
+	//ejercicio10_4();
+	//ejercicio10_5();
+	//ejercicio10_6();
+	//ejercicio10_7();
 
 	return 0;
 }
