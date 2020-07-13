@@ -5,6 +5,7 @@
 #include "headers/clase8.h"
 #include "headers/clase9.h"
 #include "headers/clase10.h"
+#include "headers/clase11.h"
 
 
 int main (){
@@ -84,6 +85,11 @@ int main (){
 	//ejercicio10_5();
 	//ejercicio10_6();
 	//ejercicio10_7();
+
+	//CLASE 11
+	//ejercicio11_1();
+	//ejercicio11_2();
+	ejercicio11_3();
 
 	return 0;
 }
