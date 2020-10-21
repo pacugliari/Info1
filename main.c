@@ -104,7 +104,11 @@ int main (){
 	//CLASE 16
 	//ejercicio16_1();
 	//ejercicio16_2();
-	ejercicio16_3();
+	//ejercicio16_3();
+
+	//CLASE 17
+	//ejercicio17_1();
+	ejercicio17_2();
 
 	return 0;
 }
