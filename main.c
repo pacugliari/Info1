@@ -66,7 +66,7 @@ int main (){
 	//ejercicio7_4();
 	//ejercicio7_5();
 	//ejercicio7_6();
-	ejercicio7_7();
+	//ejercicio7_7();
 
 	//CLASE 8
 
@@ -101,12 +101,16 @@ int main (){
 	//ejercicio10_6();
 	//ejercicio10_7();
 
-	//CLASE 11
+
+	//CLASE 11-12-13
 	//ejercicio11_1();
 	//ejercicio11_2();
 	//ejercicio11_3();
 
-	//CLASE 13
+	//CLASE 14
+
+
+	//CLASE 15
 	//ejercicio15_1();
 	//ejercicio15_2();
 	//ejercicio15_3();
