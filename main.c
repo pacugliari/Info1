@@ -10,6 +10,7 @@
 #include "headers/clase16.h"
 #include "headers/clase17.h"
 #include "headers/clase18.h"
+#include "headers/clase19.h"
 
 
 int main (){
@@ -115,7 +116,10 @@ int main (){
 	//CLASE 18
 	//ejercicio18_1();
 	//ejercicio18_2();
-	ejercicio18_3();
+	//ejercicio18_3();
+
+	//CLASE 19
+	ejercicio19_1();
 
 
 
