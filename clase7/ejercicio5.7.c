@@ -1,4 +1,4 @@
-#include "../headers/clase5.h"
+#include "../headers/clase7.h"
 
 /*
 05.07 - Una empresa de venta de zapatillas nos pide realizar un programa que les permita:

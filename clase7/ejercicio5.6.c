@@ -1,4 +1,4 @@
-#include "../headers/clase5.h"
+#include "../headers/clase7.h"
 
 /*
 Ejercicios para resolver:
