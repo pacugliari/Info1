@@ -7,6 +7,7 @@
 #include "headers/clase9.h"
 #include "headers/clase10.h"
 #include "headers/clase11.h"
+#include "headers/clase14.h"
 #include "headers/clase15.h"
 #include "headers/clase16.h"
 #include "headers/clase17.h"
@@ -108,7 +109,10 @@ int main (){
 	//ejercicio11_3();
 
 	//CLASE 14
-
+	//ejercicio14_1();
+	//ejercicio14_2();
+	//ejercicio14_3();
+	ejercicio14_4();
 
 	//CLASE 15
 	//ejercicio15_1();
