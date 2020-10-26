@@ -13,6 +13,8 @@
 #include "headers/clase17.h"
 #include "headers/clase18.h"
 #include "headers/clase19.h"
+#include "headers/clase21.h"
+#include "headers/clase22.h"
 
 
 int main (){
@@ -112,7 +114,7 @@ int main (){
 	//ejercicio14_1();
 	//ejercicio14_2();
 	//ejercicio14_3();
-	ejercicio14_4();
+	//ejercicio14_4();
 
 	//CLASE 15
 	//ejercicio15_1();
@@ -139,8 +141,11 @@ int main (){
 	//CLASE 19
 	//ejercicio19_1();
 
-	//CLASE 20
+	//CLASE 21
 	//ejercicio21_1();
+
+	//CLASE 22
+	ejercicio22_1();
 
 
 
