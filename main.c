@@ -16,6 +16,7 @@
 #include "headers/clase21.h"
 #include "headers/clase22.h"
 #include "headers/clase23.h"
+#include "headers/tp3.h"
 
 
 int main (){
@@ -152,8 +153,13 @@ int main (){
 	//ejercicio23_1();
 	//ejercicio23_2();
 	//ejercicio23_3();
-	ejercicio23_4();
+	//ejercicio23_4();
 	//ejercicio23_5();
+
+	//TP3
+	//ejercicio1();
+	//ejercicio2();
+	ejercicio3();
 
 
 
