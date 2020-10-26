@@ -15,6 +15,7 @@
 #include "headers/clase19.h"
 #include "headers/clase21.h"
 #include "headers/clase22.h"
+#include "headers/clase23.h"
 
 
 int main (){
@@ -145,7 +146,14 @@ int main (){
 	//ejercicio21_1();
 
 	//CLASE 22
-	ejercicio22_1();
+	//ejercicio22_1();
+
+	//CLASE 23
+	//ejercicio23_1();
+	//ejercicio23_2();
+	//ejercicio23_3();
+	ejercicio23_4();
+	//ejercicio23_5();
 
 
 
