@@ -7,15 +7,23 @@ sabiendo que las calificaciones varían de 1 a 10 y que pueden se fraccionaria (
 
 #include "../headers/clase14.h"
 
-#define TAM 5
+#define TAM 40
 
 void ejercicio14_3(){
 	float vector[TAM];
 	float nota;
 	float suma=0;
 	float promedio;
+	int tam;
 
-	for(int i=0;i<TAM;i++){
+	do{
+		printf("Ingrese la cantidad de alumnos a ingresar de 1 a 40\n");
+		fflush(stdin);
+		scanf("%d",&tam);
+		fflush(stdin);
+	}while(tam > 40 || tam < 1);
+
+	for(int i=0;i<tam;i++){
 		do{
 			printf("Ingrese la nota de 1 a 10 \n");
 			scanf("%f",&nota);
@@ -24,11 +32,11 @@ void ejercicio14_3(){
 		}while(nota > 10 || nota < 1);
 	}
 
-	promedio = suma/TAM;
+	promedio = suma/tam;
 
 	printf("Promedio %0.2f \n",promedio);
 
-	for(int i=0;i<TAM;i++){
+	for(int i=0;i<tam;i++){
 		if (vector[i] > promedio){
 			printf ("Alumno %d promedio %0.2f \n",i+1,vector[i]);
 		}
