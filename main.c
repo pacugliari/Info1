@@ -158,10 +158,10 @@ int main (){
 	//ejercicio23_5();
 
 	//CLASE 24
-	ejercicio24_1();
+	//ejercicio24_1();
 
 	//TP3
-	//ejercicio1();
+	ejercicio1();
 	//ejercicio2();
 	//ejercicio3();
 
